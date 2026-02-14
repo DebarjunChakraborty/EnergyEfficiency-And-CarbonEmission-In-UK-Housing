@@ -1,7 +1,7 @@
 # UK Housing Energy Efficiency & Carbon Emissions Dashboard
 
 ## 📊 Project Overview
-This project focuses on visualizing the energy efficiency and carbon dioxide (CO2) emission trends across housing in the United Kingdom. Developed as part of the **CSC8626 Data Visualization** module, this Power BI dashboard transforms complex housing data into actionable insights regarding property types, location hotspots, and historical energy trends.
+This project focuses on visualizing the energy efficiency and carbon dioxide (CO2) emission trends across housing in the United Kingdom. This Power BI dashboard transforms complex housing data into actionable insights regarding property types, location hotspots, and historical energy trends.
 
 ![Dashboard Overview](Assests/Dashboard_Overview.png)
 *Figure: Overview of the Energy Efficiency Dashboard.*
